@@ -1,0 +1,6 @@
+{
+  "name": "DREAMGET AI",
+  "description": "AI-powered job search and 1-click application platform with resume analysis, smart skill matching, approval workflow, and skill-gap roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
